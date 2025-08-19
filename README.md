@@ -1,17 +1,17 @@
 <div align="center">
 
-# Guardians of the Void: Cleanup Chaos
+![](.github/game-thumbnail-1920x750.png)
 
-![](https://img.shields.io/github/last-commit/lvl-Devs/cleanup-chaos?&style=for-the-badge&color=8272a4&logoColor=D9E0EE&labelColor=292324)
-![](https://img.shields.io/github/stars/lvl-Devs/cleanup-chaos?style=for-the-badge&logo=polestar&color=FFB1C8&logoColor=D9E0EE&labelColor=292324)
-![](https://img.shields.io/github/repo-size/lvl-Devs/cleanup-chaos?color=CAC992&label=SIZE&logo=files&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)
+# Guardians of the Void: Cleanup Chaos
+**Guardians of the Void: Cleanup Chaos** is an exciting 2D space game built with Phaser 3 and TypeScript. Navigate through asteroid fields, collect space debris, and clean up the cosmos while avoiding dangerous obstacles. Features both story-driven levels and endless arcade mode!
+
+<a href="https://github.com/lvl-Devs/cleanup-chaos/pulls"><kbd> <br> Contribute <br> </kbd></a>
+<a href="https://github.com/lvl-Devs/cleanup-chaos/issues"><kbd> <br> Report Issues <br> </kbd></a>
+<a href="https://lvl-devs.itch.io/cleanup-chaos"><kbd> <br> Play the Game <br> </kbd></a>
 
 </div>
 
-**Guardians of the Void: Cleanup Chaos** is an exciting 2D space game built with Phaser 3 and TypeScript. Navigate through asteroid fields, collect space debris, and clean up the cosmos while avoiding dangerous obstacles. Features both story-driven levels and endless arcade mode!
-
 ## 🚀 Features
-
 • **Responsive Fullscreen Gaming**: Optimized for all screen sizes with automatic scaling  
 • **Two Game Modes**: Story-driven level progression and challenging arcade mode  
 • **Power-Up System**: Collect shields, speed boosts, and double points to enhance gameplay  
@@ -21,11 +21,9 @@
 • **Intuitive Controls**: Keyboard controls (WASD/Arrow keys) with smooth ship movement  
 
 ## 🎮 The Game
-
 Guardians of the Void puts you in control of a space cleanup vessel tasked with collecting debris while navigating through dangerous asteroid fields. The game combines action-packed gameplay with environmental themes, challenging players to clean up space while surviving increasingly difficult obstacles.
 
 ### 🕹️ How to Play
-
 • **Movement**: Use WASD keys or arrow keys to navigate your ship  
 • **Objective**: Collect space debris (trash) to earn points  
 • **Avoid**: Asteroids that will damage your ship  
@@ -38,12 +36,10 @@ Guardians of the Void puts you in control of a space cleanup vessel tasked with 
 • **Lives**: You have 3 hearts - lose them all and it's game over!  
 
 ### 🎯 Game Modes
-
 • **Story Mode**: Progress through carefully designed levels with specific objectives  
 • **Arcade Mode**: Endless gameplay with increasing difficulty for high score challenges  
 
 ## 🌐 Technologies Used
-
 • **Phaser 3**: Powerful HTML5 game framework for 2D game development  
 • **TypeScript**: Type-safe JavaScript for robust game logic  
 • **Webpack**: Module bundler for efficient asset management and building  
@@ -52,12 +48,10 @@ Guardians of the Void puts you in control of a space cleanup vessel tasked with 
 ## 🛠️ Development
 
 ### 📋 Prerequisites
-
 - [Node.js](https://nodejs.org/) (>= 12)
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 
 ### 🔧 Installation
-
 1. Clone the repository:
 ```bash
 git clone https://github.com/lvl-devs/cleanup-chaos.git
@@ -90,13 +84,10 @@ npm run deploy
 ```
 
 ### 🚀 Deployment
-
 The project is configured to deploy automatically to itch.io using Butler. 
-
 > **⚠️ IMPORTANT**: Deployment is restricted to project administrators only. Regular contributors cannot deploy the game.
 
 #### For Administrators Only:
-
 To set up deployment credentials:
 
 1. Install Butler (if not already installed):
@@ -144,8 +135,7 @@ npm run deploy
 ```
 
 ### 📁 Project Structure
-
-```
+``` plaintext
 cleanup-chaos/
 ├── .butler.toml              # Butler deployment configuration
 ├── .butler.toml.template     # Butler configuration template
@@ -206,17 +196,14 @@ cleanup-chaos/
 - **Achievement System**: Track your progress through the game
 
 ## 👥 Credits
-
 - **Design**: [Pako3549](https://github.com/Pako3549), [pH@ntom](https://github.com/antodeev), [A.P.](https://youtu.be/xvFZjo5PgG0?si=ZXlZYL7QkCGWbESW), [Z3n0x](https://github.com/Zenox19)
 - **Development**: [pH@ntom](https://github.com/antodeev), [gkkconan](https://github.com/gkkconan), [Pako3549](https://github.com/Pako3549)
 - **Music**: [Pako3549](https://github.com/Pako3549), [T1g3r](https://github.com/Luigirau)
 
 ## 📄 License
-
 This project is open-source and available under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🔗 Links
-
 - [Play the Game](https://lvl-devs.itch.io/cleanup-chaos)
 - [Report Issues](https://github.com/lvl-Devs/cleanup-chaos/issues)
 - [Contribute](https://github.com/lvl-Devs/cleanup-chaos/pulls)
